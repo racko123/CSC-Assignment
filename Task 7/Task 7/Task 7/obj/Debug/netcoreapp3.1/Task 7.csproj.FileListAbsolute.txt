@@ -1,0 +1,20 @@
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.exe
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.deps.json
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.runtimeconfig.json
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.runtimeconfig.dev.json
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.dll
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\bin\Debug\netcoreapp3.1\Task 7.pdb
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.csprojAssemblyReference.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.AssemblyInfoInputs.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.AssemblyInfo.cs
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.csproj.CoreCompileInputs.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.MvcApplicationPartsAssemblyInfo.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\staticwebassets\Task 7.StaticWebAssets.Manifest.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\staticwebassets\Task 7.StaticWebAssets.xml
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task 7.styles.css
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.RazorTargetAssemblyInfo.cache
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.dll
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.pdb
+D:\Poly Stuff\Cloud Stuff\CSC Assignment\Task 7\Task 7\Task 7\obj\Debug\netcoreapp3.1\Task 7.genruntimeconfig.cache
